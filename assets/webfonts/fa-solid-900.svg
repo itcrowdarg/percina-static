@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!--
+Font Awesome Pro 5.13.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Commercial License)
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Tue May  5 16:09:11 2020
+ By root
+Copyright (c) Font Awesome
+</metadata>
+<defs>
+<font id="FontAwesome5Pro-Solid" horiz-adv-x="448" >
+  <font-face 
+    font-family="Font Awesome 5 Pro Solid"
+    font-weight="900"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 504 448"
+    underline-thickness="25"
+    underline-position="-50"
+    unicode-range="U+0020-F055"
+  />
+    <missing-glyph />
+    <glyph glyph-name="user" unicode="&#xf007;" 
+d="M224 192c-70.7002 0 -128 57.2998 -128 128s57.2998 128 128 128s128 -57.2998 128 -128s-57.2998 -128 -128 -128zM313.6 160c74.2002 0 134.4 -60.2002 134.4 -134.4v-41.5996c0 -26.5 -21.5 -48 -48 -48h-352c-26.5 0 -48 21.5 -48 48v41.5996
+c0 74.2002 60.2002 134.4 134.4 134.4h16.6992c22.3008 -10.2002 46.9004 -16 72.9004 -16s50.7002 5.7998 72.9004 16h16.6992z" />
+    <glyph glyph-name="plus-circle" unicode="&#xf055;" horiz-adv-x="512" 
+d="M256 440c137 0 248 -111 248 -248s-111 -248 -248 -248s-248 111 -248 248s111 248 248 248zM400 164v56c0 6.59961 -5.40039 12 -12 12h-92v92c0 6.59961 -5.40039 12 -12 12h-56c-6.59961 0 -12 -5.40039 -12 -12v-92h-92c-6.59961 0 -12 -5.40039 -12 -12v-56
+c0 -6.59961 5.40039 -12 12 -12h92v-92c0 -6.59961 5.40039 -12 12 -12h56c6.59961 0 12 5.40039 12 12v92h92c6.59961 0 12 5.40039 12 12z" />
+  </font>
+</defs></svg>
